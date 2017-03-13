@@ -1,0 +1,3 @@
+spring:
+  pid:
+    file: /home/ec2-user/docker-spring-hello.pid
